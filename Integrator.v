@@ -17,3 +17,5 @@ module `mname` (input logic [`$bW-1`:0] d,
 
 
 endmodule
+
+// This is a test
