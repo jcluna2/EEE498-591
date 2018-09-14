@@ -17,5 +17,3 @@ module `mname` (input logic [`$bW-1`:0] d,
 
 
 endmodule
-
-// Hello
